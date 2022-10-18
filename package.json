@@ -1,0 +1,22 @@
+{
+  "name": "linkkk_assets",
+  "version": "1.0.0",
+  "description": "linkkk静态资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkkk0/linkkk_assets.git"
+  },
+  "keywords": [
+  "assets"
+  ],
+  "author": "linkkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkkk0/linkkk_assets/issues"
+  },
+  "homepage": "https://github.com/linkkk0/linkkk_assets#readme"
+}
