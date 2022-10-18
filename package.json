@@ -1,6 +1,6 @@
 {
   "name": "linkkk_assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "linkkk静态资源库",
   "main": "index.js",
   "scripts": {
